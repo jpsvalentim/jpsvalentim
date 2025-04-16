@@ -46,15 +46,3 @@
 ![Wokwi](https://img.shields.io/badge/-Wokwi-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/-Node--RED-B40000?style=flat-square&logo=nodered&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-
-#### ⚙️ Outros:
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda)
-![Wokwi](https://img.shields.io/badge/-Wokwi-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Node-RED](https://img.shields.io/badge/-Node--RED-B40000?style=flat-square&logo=nodered)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-
