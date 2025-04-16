@@ -43,7 +43,7 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda)
-![Wokwi](https://img.shields.io/badge/-Wokwi-00C853?style=flat-square)
+![Wokwi](https://img.shields.io/badge/-Wokwi-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/-Node--RED-B40000?style=flat-square&logo=nodered)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
